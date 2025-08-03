@@ -1,0 +1,1 @@
+# Arduino_3rd_party_board_manager_URL
